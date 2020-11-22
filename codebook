@@ -3,7 +3,7 @@
 This code book describes the variables, the data, and any transformations or work performed to clean up the data.
 
 ## Study Design
-+ [The data come from the accelerometers on a Samsung Galaxy S II smartphone. It recorded various accelerometer measurements for 30 subjects during different prescribed activities. More information on the experiment can be found at:](https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
++ The data come from the accelerometers on a Samsung Galaxy S II smartphone. It recorded various accelerometer measurements for 30 subjects during different prescribed activities. More information on the experiment can be found at: https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 + The data for the project is downloaded from: 
 + This zip file has been saved in the working directory by the run_Analysis.R script (analysis script) as ProjectData.zip
 + This file is unzipped in the working directory and creates the subdirectory 'UCI HAR Dataset' which contains all the raw data and a README.txt which describes the dataset.
